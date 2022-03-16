@@ -1,4 +1,4 @@
-Wavelength Lower, Wavelength Upper, Radius Ratio
+WavelengthLower, WavelengthUpper, RadiusRatio
 0.392 0.4810 12375
 0.555 0.6700 12521
 0.836 0.9430 12298
